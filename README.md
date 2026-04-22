@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nshathish 👋</h1>
+<h1 align="center">Hi there, I'm Adolphous 👋</h1>
 
 <p align="center">
   <em>Full-Stack Developer & Cloud Engineer · Building scalable systems with modern frameworks and cloud-native architectures</em>
