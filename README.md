@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Adolphous 👋</h1>
 
 <p align="center">
-  <em>Full-Stack Developer & Cloud Engineer · Building scalable systems with modern frameworks and cloud-native architectures</em>
+  <em>Polyglot Full-Stack Developer & Cloud Engineer · Building scalable systems with modern frameworks and cloud-native architectures</em>
 </p>
 
 <p align="center">
-  <strong>Principal Engineer @ Zensar Technologies · 10+ years in C# / .NET, Azure & TypeScript · Microsoft Certified: Azure Developer Associate</strong>
+  <strong>Principal Engineer @ Zensar Technologies · 10+ years across C# / .NET, TypeScript, Python & Java · Azure-certified (AZ-204)</strong>
 </p>
 
 <p align="center">
